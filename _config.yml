@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: 时空之门
+subtitle: '未来|星际|空间|黑洞'
 description: ''
 keywords:
 author: John Doe
@@ -98,9 +98,9 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: hexo-theme-technology
 
-# Deployment
+# Depllandscapeoyment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy: 
   type: git
